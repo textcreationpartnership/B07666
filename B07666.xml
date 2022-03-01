@@ -1,0 +1,394 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An English challenge and a reply from Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07666</idno>
+            <idno type="STC">STC 10408.5</idno>
+            <idno type="STC">ESTC S92477</idno>
+            <idno type="EEBO-CITATION">60449178</idno>
+            <idno type="OCLC">ocm 60449178</idno>
+            <idno type="VID">181261</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181261)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2183:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An English challenge and a reply from Scotland.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1640?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Publication information from STC (2nd ed.).</note>
+                  <note>In praise of Scots valour, mentioning the battle of Newburn, 28 Aug. 1640 -- Cf. STC (2nd ed.).</note>
+                  <note>Imperfect: stained, with loss of print.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newburn, Battle of, 1640 --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181261:1" rendition="simple:additions"/>
+            <head>AN <hi>ENGLISH</hi> CHALLENGE AND A REPLY FROM <hi>SCOTLAND.</hi>
+            </head>
+            <sp>
+               <speaker>Queſtion.</speaker>
+               <l>OH how now <hi>Mars</hi> what is thy humour?</l>
+               <l>That thou on us begins to frowne</l>
+               <l>What is the meaning of this rumor</l>
+               <l>Of warres that flieth up and downe?</l>
+               <l>Or to what end does thou intend</l>
+               <l>Twixt friend and friend to make debate,</l>
+               <l>And cauſe the one the other hate?</l>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <l>You <hi>Engliſh Poetes</hi> hearken I pray</l>
+               <l>I tell why <hi>Mars</hi> doth on you frowne,</l>
+               <l>Becauſe like men you'l not aſſay you,</l>
+               <l>To pull the <hi>Romiſh myter</hi> downe.</l>
+               <l>Since ye want hearts to act your parts,</l>
+               <l>
+                  <hi>Mars</hi> called hath the valiant <hi>Scots,</hi>
+               </l>
+               <l>To make the <hi>Biſhops</hi> quite their coats.</l>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <l>Hath <hi>Vulcane</hi> any wiſe diſpleaſed thee?</l>
+               <l>Or <hi>Cupid</hi> that unhappy Lad?</l>
+               <l>That <hi>Venus</hi> ſmyles cannot appeaſe thee,</l>
+               <l>Or is it <hi>Bacchus</hi> makes thee mad?</l>
+               <l>What Planet darre move <hi>Iove</hi> to warre?</l>
+               <l>Durſt ever <hi>Luna, Sol</hi> withſtand,</l>
+               <l>Or <hi>Iuno Iupiter</hi> command?</l>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <l>We are not planets but fixed ſtarres,</l>
+               <l>We prove not wandering from the right,</l>
+               <l>Our light with darkneſſe is not mixt,</l>
+               <l>As yours that ſhines but in the night</l>
+               <l>Of <hi>Vulcanes</hi> Ire or <hi>Cupids</hi> fire</l>
+               <l>Or <hi>Venus</hi> toyes no compt we make,</l>
+               <l>From <hi>Bacchus</hi> we no courage take.</l>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <l>Then paughty <hi>Scot</hi> what does thou mean,</l>
+               <l>Preſumptuouſly thus to attempt?</l>
+               <l>You'll better let theſe warres alone,</l>
+               <l>Then thus from us thy ſelfe exempt</l>
+               <l>Thou does not well for to rebell</l>
+               <l>And ſtand againſt ſo good a King</l>
+               <l>Whoſe fame throughout the world does reigne.</l>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <l>May we not juſtly for our nation</l>
+               <l>Prevein all dangers may enſue,</l>
+               <l>Should we not make a ſeparation,</l>
+               <l>When God commands from <hi>Babels</hi> crew</l>
+               <l>Then with our King gainſt <hi>Romes</hi> off-ſpring,</l>
+               <l>And all their traſh we'l ſtoutly fight</l>
+               <l>And to the death maintaine our right.</l>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <l>We that together in one nation,</l>
+               <l>So long have been great <hi>Britane</hi> called</l>
+               <l>Why does thou ſeek a ſeparation,</l>
+               <l>Art thou from us ſecurely walled,</l>
+               <l>Oh do not ſo leſt that thy woe</l>
+               <l>And ſorrows more and more do bried</l>
+               <l>If once we paſſe the river <hi>Tweid.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <l>We love all <hi>Engliſh</hi> loyall Subjects.</l>
+               <l>From them we'll not exempted be,</l>
+               <l>But of all Biſhops popiſh projects</l>
+               <l>We ſtand no fear to make us free</l>
+               <l>Tho wales we lack to hold you bake</l>
+               <l>I wiſh our joyes may ſtill abide</l>
+               <l>Untill you paſſe the river <hi>Tweid.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <l>What does thou thinke the <hi>Engliſh</hi> powers</l>
+               <l>So weak, that thou canſt make us flee:</l>
+               <l>Who will not fuffer any <hi>Gowries,</hi>
+               </l>
+               <l>For to performe conſpiracie.</l>
+               <l>Art thou ſo ſtrong to profer wrong</l>
+               <l>Seditiouſly to worke ſuch plots</l>
+               <l>And thus become rebellious <hi>Scots.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <l>In vain ye boaſt your <hi>Engliſh</hi> powers</l>
+               <l>As if your Gyhoes and great horſes</l>
+               <l>Your walled towns and fenced towres</l>
+               <l>Were able to reſiſt our forces</l>
+               <l>While as you Blot the valiant <hi>Scot,</hi>
+               </l>
+               <l>With treacherous doings, without reaſon,</l>
+               <l>You may thinke on the powder treaſon.</l>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <l>Ther's not a coward ſo faint-hearted</l>
+               <l>I thinke which will not dar to fight,</l>
+               <l>But into valour will be converted</l>
+               <l>And ſtand up for his Countreyes right</l>
+               <l>When Canons rattle into Battell,</l>
+               <l>And Billots thick amongſt us flee</l>
+               <l>S<hi rend="sup">t</hi> 
+                  <hi>George</hi> for <hi>England</hi> ſtill we cry.</l>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <l>I'm ſure when any Popiſh faiſart</l>
+               <l>For prelats quarrels dar to ſight,</l>
+               <l>There is not a <hi>Scotſ-man</hi> but he'll haizart</l>
+               <l>For to defend his Countreys right</l>
+               <l>When Canons rumble and Billots tumble</l>
+               <l>And <hi>Engliſh-men</hi> before us flee,</l>
+               <l>The <hi>Covenant</hi> for <hi>Scots</hi> we cry.</l>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <l>The <hi>Welch-men</hi> in his Princes honour</l>
+               <l>Hath vowed he will not be to ſeek,</l>
+               <l>But will diſplay S<hi rend="sup">t</hi> 
+                  <hi>Davids</hi> banner,</l>
+               <l>And unto him preſent a liek-</l>
+               <l>Both men and boy that ſprings from <hi>Troy</hi>
+               </l>
+               <l>Doth ſwear if once they ſet upon it.</l>
+               <l>They'l make the <hi>Scotſ-man</hi> waile his bonnet,</l>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <l>The <hi>Welch-men</hi> vowes he no way feareth</l>
+               <l>To make the <hi>Scotſ-man</hi> wail his bonnet</l>
+               <l>But he performes not what he ſweareth,</l>
+               <l>At <hi>Newburne</hi> ſo was ſeen upon it.</l>
+               <l>When Trumpets blew and billots flew</l>
+               <l>The <hi>Welch mens</hi> courage was to ſeek,</l>
+               <l>Where was S<hi rend="sup">t</hi> 
+                  <hi>David</hi> with his liek?</l>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <l>The <hi>French</hi> the <hi>Iriſh</hi> and <hi>Italian,</hi>
+               </l>
+               <l>Alſo the <hi>Danes</hi> and <hi>Spaniard</hi> too,</l>
+               <l>The <hi>Perſian Pagan</hi> and each alian,</l>
+               <l>Doth ſeek rebellion to ſubdue.</l>
+               <l>Then ſeek thy peace let rumors ceaſe</l>
+               <l>And not attempt to doe ſuch thing,</l>
+               <l>Or move to wrath ſo good a King.</l>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <l>The <hi>Iriſh French</hi> and <hi>Danes</hi> aſiſt you</l>
+               <l>And <hi>Rome</hi> with all her baſtard blood:</l>
+               <l>Through GOD we are able to reſiſt you</l>
+               <l>Becauſe our quarrell is juſt and good,</l>
+               <l>We wiſh our King ay ſtill may reigne,</l>
+               <l>While <hi>Scots</hi> prove falſe and papiſts true,</l>
+               <l>And <hi>Antichriſt</hi> CHRISTS truth ſubdue.</l>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <l>Leſt paughty <hi>Scot</hi> we cry have at thee</l>
+               <l>The mark's ſo fair we cannot miſſe,</l>
+               <l>Yet never ſince thy Dady gat thee</l>
+               <l>Thou could have fairer play nor this</l>
+               <l>Which we will ſhow to thee our foe</l>
+               <l>Thou can not hold us much to blame</l>
+               <l>For thou thy ſelf have wrought the ſame.</l>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <l>Your crying will no wheit diſmay us</l>
+               <l>For tho ye ſhoote ye may well miſſe,</l>
+               <l>Come when ye will ye may aſſay us,</l>
+               <l>To fight we will not be miſſe</l>
+               <l>Ye ſhall ſee Ladies got <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f <hi>Scots</hi> Dadies,</l>
+               <l>Will make the <hi>Pope</hi> curſe his miſhape,</l>
+               <l>And Prelats wail their <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>er cap.</l>
+            </sp>
+            <sp>
+               <speaker>Q<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>.</speaker>
+               <l>And if the officers <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>eſſe me,</l>
+               <l>I will be ready for the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>And not ſeek any to re<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> me,</l>
+               <l>But boldly fight for Countries fame,</l>
+               <l>Or if not ſo then will I goe,</l>
+               <l>A voluntire among the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt,</l>
+               <l>If otherwiſe I be not <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <l>Since brain ſick P<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but pratle</l>
+               <l>I would adviſe you <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ght</l>
+               <l>Leſt if they preſſe <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the battell</l>
+               <l>You turne a volunt<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> flight</l>
+               <l>Since it is ſo, friend do not goe,</l>
+               <l>To fight, leſt ye <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>en Canons rumble</l>
+               <l>With ſhame for <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ar cry barlafumble.</l>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <l>Thus to conclude my reſolution,</l>
+               <l>As willing for to fight as ſing</l>
+               <l>I'll drinke a health to his confuſion,</l>
+               <l>That beareth armes againſt our King,</l>
+               <l>Whom I do love and ſtill will prove,</l>
+               <l>A loyall ſubject to his Grace,</l>
+               <l>In <hi>England</hi> or in any place.</l>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <l>Then to conclude that Poet lyar,</l>
+               <l>That fayes he will not ſing but fight</l>
+               <l>But Poets fighting away fleeth,</l>
+               <l>Except with pottles in the night.</l>
+               <l>For me I'l ſing God ſave our King,</l>
+               <l>And drinke a health to all true <hi>Scots</hi>
+               </l>
+               <l>That loves the truth and hates falſe.</l>
+            </sp>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
